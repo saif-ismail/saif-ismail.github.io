@@ -1,4 +1,4 @@
-# Minimal Theme
+# Mohammed Saif Ismail Hameed
 
 [Demo the Theme](https://orderedlist.com/minimal/)
 

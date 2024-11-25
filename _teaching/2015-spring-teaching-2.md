@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Experimental planning and data modeling (2023-2024)"
 collection: teaching
-type: "Workshop"
+type: "Masters course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "KU Leuven, Department of Bioscience Engineering"
+date: 2023-09-01
+location: "Leuven, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<!-- This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
@@ -17,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->

@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bioscience Engineering (Design of Engineering), KU Leuven, Sep 2023
-* M.Eng. in Manufacturing Engineering, University of Michigan, Dec 2016
-* B.Eng. in Mechanical Engineering, Ramaiah Institute of Technology, Jun 2015
+* **Ph.D in Bioscience Engineering (Design of Experiments)**, KU Leuven, Sep 2023  
+Thesis: Advances in the Analysis and Construction of Orthogonal Response Surface Designs and Optimal Screening Designs  
+Promotor: Prof. Peter Goos  
+Co-promotor: Dr. Jose Nunez Ares  
+PhD examination committee: Prof. Eric Schoen, Prof. Steven Gilmour, Prof. Martina Vandebroek, Dr. Bart De Ketelaere, Prof. Abram Aertsen
+
+* **M.Eng. in Manufacturing Engineering**, University of Michigan, Dec 2016  
+Thesis: Battery and vehicle size estimation for full electric vehicles (Sponsor: A2Mac1)  
+Promotor: Prof. Donald Malen
+
+* **B.Eng. in Mechanical Engineering**, Ramaiah Institute of Technology, Jun 2015  
+Thesis: Design and fabrication of utility quadcopter with payload capabilities
 
 <!-- Work experience
 ======
@@ -46,7 +55,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Ongoing research work
+======
+* Algorithmic design for experiments with factor dependent cost and resource utilization constraints (an article is currently being drafted).
+* Enumeration of D- and A- optimal designs for run sizes not a multiple of four for small sample cases (one peer-reviewed article will soon be published); A second article is almost ready for peer-review submission.
+* Constructing D-optimal designs by dropping rows from orthogonal arrays (a peer-reviewed article will soon be published).
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -59,6 +74,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Mentorship
+Masters thesis supervision
 ======
-* Currently signed in to 43 different slack teams
+* **Staggered-Level Designs with Three Hard-To-Change Factors** - Ying Chen (2021-2022)  
+Master of Statistics, KU Leuven  
+Co-advisor: Prof. Peter Goos
+
+* **Evaluation of the (4,8) family of Orthogonal Minimally Aliased Response Surface Designs** - Huijing Zheng (2020-2021)  
+Master of Statistics, KU Leuven  
+Co-advisor: Prof. Peter Goos

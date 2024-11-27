@@ -14,7 +14,7 @@ This course covers the following
 
 Multiple linear regression
 ------
-* Coeeficient estimations
+* Coefficient estimations
 * Confidence intervals
 * Prediction intervals
 * Hypothesis testing (T-test and F-tests)

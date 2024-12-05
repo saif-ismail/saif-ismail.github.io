@@ -32,13 +32,20 @@ Summary of skills
 </details>
 
 <details>
-  <summary><strong>Modeling methods</strong></summary>
+  <summary><strong>Probabilistic modeling methods</strong></summary>
   * Generlized linear and mixed models <br>
-  * Bayesian analysis <br>
+  * Bayesian statistics <br>
   * Gaussian processes <br>
   * Bayesian Optimization <br>
-  * Supervised learning: Modern machine learning methods for regression and classification <br>
-  * Unsupervised learning: Clustering methods <br>
+</details>
+
+<details>
+  <summary><strong>Machine learning and Deep learning</strong></summary>
+  * PCA and PLS <br>
+  * Decision trees<br>
+  * Neural networks<br>
+  * Supervised learning: methods for regression and classification <br>
+  * Unsupervised learning: clustering methods <br>
 </details>
 
 <details>
@@ -56,6 +63,7 @@ Summary of skills
   * R <br>
   * JMP <br>
   * Minitab <br>
+  * Power BI <br>
   * Github <br>
   * Latex <br>
 </details>

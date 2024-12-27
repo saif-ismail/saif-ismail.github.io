@@ -5,11 +5,29 @@ permalink: /certifications/
 author_profile: true
 ---
 
-* **Neural Networks and Deep Learning** - DeepLearning.AI (Coursera) <!---(December 2024.)--->
-* **Mathematics for Machine Learning: PCA** - Imperial College London (Coursera) <!---(December 2023.)--->
-* **Mathematics for Machine Learning: Multivariate Calculus** - Imperial College London (Coursera) <!---November 2023.--->
+---
+    
+<details>
+  <summary><strong>Neural Networks specialization - DeepLearning.AI (Coursera)</strong></summary>
+  * Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization <br><!---(December 2024.)--->
+  * Course 1: Neural Networks and Deep Learning <br><!---(December 2024.)--->
+</details>
 
 ----
 
-* <span style="color:gray">**Lean Six Sigma (LSS) Black Belt** - University of Michigan, USA <!---(February 2018.---></span>
-* <span style="color:gray">**Design for Six Sigma (DFSS) Black Belt** - University of Michigan, USA <!---(September 2017.---></span>
+<details>
+  <summary><strong>Mathematics for Machine Learning specialization - Imperial College London (Coursera)</strong></summary>
+  * Course 2: Multivariate Calculus <br><!---November 2023.--->
+  * Course 3: PCA <br><!---(December 2023.)--->
+</details>
+
+----
+
+<details>
+  <summary><strong>Black belts - University of Michigan</strong></summary>
+  * Lean Six Sigma (LSS) <br><!---November 2023.--->
+  * Design for Six Sigma (DFSS) <br><!---(December 2023.)--->
+</details>
+
+----
+

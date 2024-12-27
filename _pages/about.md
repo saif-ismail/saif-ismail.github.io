@@ -10,7 +10,7 @@ redirect_from:
 I am a manufacturing engineer with a PhD focused on applied statistics and data analytics.  
 
 Summary of skills
-
+---
 <details>
   <summary><strong>Quality Control</strong></summary>
   * Six Sigma Black belt <br>
@@ -18,6 +18,8 @@ Summary of skills
   * APQP processes (eg: FMEA, PPAP) <br>
   * Familiarity with quality standards - ISO 9001:2015, IATF 16949<br>
 </details>
+
+---
 
 <details>
   <summary><strong>Statistical design of experiments</strong></summary>
@@ -31,6 +33,8 @@ Summary of skills
   * Robustness experiments <br>
 </details>
 
+---
+
 <details>
   <summary><strong>Probabilistic modeling methods</strong></summary>
   * Generlized linear and mixed models <br>
@@ -38,6 +42,8 @@ Summary of skills
   * Gaussian processes <br>
   * Bayesian Optimization <br>
 </details>
+
+---
 
 <details>
   <summary><strong>Machine learning and Deep learning</strong></summary>
@@ -48,6 +54,8 @@ Summary of skills
   * Unsupervised learning: clustering methods <br>
 </details>
 
+---
+
 <details>
   <summary><strong>Product design and engineering</strong></summary>
   * Design for manufacturability (DFMA) <br>
@@ -56,6 +64,8 @@ Summary of skills
   * Reliability Engineering <br>
   * Life-cycle-assessment (LCA)
 </details>
+
+---
 
 <details>
   <summary><strong>Software</strong></summary>

@@ -9,6 +9,7 @@ author_profile: true
     
 <details>
   <summary><strong>Neural Networks specialization - DeepLearning.AI (Coursera)</strong></summary>
+  * Course 4: Convolutional Neural Networks <br><!---(February 2025.)--->
   * Course 3: Structuring Machine Learning Projects <br><!---(December 2024.)--->
   * Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization <br><!---(December 2024.)--->
   * Course 1: Neural Networks and Deep Learning <br><!---(December 2024.)--->

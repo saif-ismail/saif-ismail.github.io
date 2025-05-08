@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@media print {
+    /* Hide follow buttons */
+    .author__urls-wrapper {
+      display: none !important;
+    }
+  
+    /* Hide author profile photo */
+    .author__avatar, .author__bio {
+      display: none !important;
+    }
+  
+    /* Optional: hide navigation, footer, etc. */
+    header, nav, footer {
+      display: none !important;
+    }
+}

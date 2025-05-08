@@ -58,9 +58,8 @@ Publications
 
 Ongoing research work
 ======
-* Algorithmic design for experiments with factor dependent cost and resource utilization constraints (an article is currently being drafted).
-* Enumeration of D- and A- optimal designs for run sizes not a multiple of four for small sample cases (one peer-reviewed article will soon be published); A second article is almost ready for peer-review submission.
-* Constructing D-optimal designs by dropping rows from orthogonal arrays (a peer-reviewed article will soon be published).
+* Algorithmic design for experiments with factor dependent cost and resource utilization constraints (an article is almost ready for peer-review submission).
+* Enumeration of D- and A- optimal designs for run sizes three more than a multiple of four (an article is almost ready for peer-review submission).
 
 Talks
 ======

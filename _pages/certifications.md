@@ -19,8 +19,8 @@ author_profile: true
 
 <details>
   <summary><strong>Mathematics for Machine Learning specialization - Imperial College London (Coursera)</strong></summary>
-  * Course 2: Multivariate Calculus <br><!---November 2023.--->
   * Course 3: PCA <br><!---(December 2023.)--->
+  * Course 2: Multivariate Calculus <br><!---November 2023.--->
 </details>
 
 ----
